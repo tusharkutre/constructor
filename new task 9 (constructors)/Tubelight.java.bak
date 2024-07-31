@@ -1,0 +1,11 @@
+class Tubelight{
+	double watts;
+	String colour;
+	int price;
+   String brand;	
+   
+	//defining a constructor
+	Tubelight(){
+		System.out.println("Im a tubelight constructor...");
+	}
+}
